@@ -22,7 +22,6 @@ Domain model for a checkout counter in an online retail store that scans product
 
 ## UML diagrams
 
-You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
 
 ```mermaid
 sequenceDiagram
