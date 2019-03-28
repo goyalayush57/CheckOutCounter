@@ -5,7 +5,9 @@ Domain model for a checkout counter in an online retail store that scans product
 **About The Project :** It is a hiring project from Mediaocean.Two Endpoints are Exposed
 
  - `localhost:8082/cart/products` - The purpose of this endpoint is to get all the products along with category which the user has added to the cart
+ Method type = GET
  - `localhost:8082/cart/detailedBill` - The purpose of this endpoint is to get the total bill (along with taxes applicable based on category of the product) which is needed to be paid by the consumer.
+ Method type = GET
 
 **Pre requisite :** 
 
