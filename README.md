@@ -7,6 +7,10 @@ Domain model for a checkout counter in an online retail store that scans product
  - `localhost:8082/cart/products` - The purpose of this endpoint is to get all the products along with category which the user has added to the cart
  - `localhost:8082/cart/detailedBill` - The purpose of this endpoint is to get the total bill (along with taxes applicable based on category of the product) which is needed to be paid by the consumer.
 
+**Pre requisite :** 
+
+ - JDK 1.8 or higher version should be installed
+
 **Running the Project :** 
 
  - If you just want to run the project in your machine then download [com.cart-0.0.1-SNAPSHOT.jar](https://github.com/goyalayush57/CheckOutCounter/blob/master/com.cart/target/com.cart-0.0.1-SNAPSHOT.jar) located at the target folder(click on the link to download)
