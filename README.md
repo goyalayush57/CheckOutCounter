@@ -24,7 +24,6 @@ Domain model for a checkout counter in an online retail store that scans product
 
 
 ```mermaid
-sequenceDiagram
 HTTP Client ->> REST Controller: localhost:8082/cart/products
 REST Controller -> Service Class: query for product
 REST Controller -> Service Class: return model
