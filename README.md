@@ -20,7 +20,7 @@ Domain model for a checkout counter in an online retail store that scans product
 
 
 
-## UML diagrams
+## Interaction diagrams
 
 
 ```mermaid
